@@ -1,4 +1,4 @@
-# Food Recipe Website
+# Recipes
 
 This is a food recipe website developed as part of The Odin Project's Foundation track.
 
