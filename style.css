@@ -1,7 +1,10 @@
 .page-title {
     color: green;
     font-weight: bold;
-    font-size: 55px;
+    font-size: 45px;
+    background-color: lightgrey;
+    padding: 8px;
+    text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
