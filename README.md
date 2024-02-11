@@ -1,4 +1,4 @@
-# Recipes
+# recipes
 
 This recipes website comprises a main page (index.html) which contains links to 3 sub sites for one recipe each.
 
